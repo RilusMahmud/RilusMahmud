@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I'm the devil! 😈**
 
+===
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rilusmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rilusmahmud" height="30" width="40" /></a>

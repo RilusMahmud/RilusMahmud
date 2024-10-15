@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/rilusmahmud"><img src="https://api.daily.dev/devcards/v2/AxfimK6qkrLL2Y4eVrl8S.png?type=default&r=h5r" width="356" alt="rilus mahmud's Dev Card"/></a>
-
 <h1 align="center">Hi 👋, I'm Rilus Mahmud</h1>
 <h3 align="center">DevOps enthusiasts! Loves to work with maps and maps technologies!🗺️</h3>
 

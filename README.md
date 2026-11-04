@@ -14,13 +14,13 @@ Engineering manager at [Barikoi](https://barikoi.com), Dhaka. I lead the team be
 
 <p>
   <a href="https://skillicons.dev">
-    <img alt="Stack" src="https://skillicons.dev/icons?i=ts,bun,go,bash,linux,arch,docker,kubernetes,ansible,nginx,aws,gcp,postgres,mysql,redis,elasticsearch,kafka,prometheus,grafana,rust,swift&perline=11" />
+    <img alt="Stack" src="https://skillicons.dev/icons?i=ts,bun,go,bash,linux,arch,docker,kubernetes,ansible,nginx,aws,gcp,postgres,mysql,mongodb,redis,elasticsearch,kafka,prometheus,grafana,rust,swift&perline=11" />
   </a>
 </p>
 
 - Daily: TypeScript (Bun, Hono), Go, Bash, Linux
 - Infrastructure: Docker, Kubernetes, Ansible, Nginx, Traefik, Hetzner, AWS, GCP
-- Data: PostgreSQL + PostGIS, MySQL, Redis, Elasticsearch, Tile38
+- Data: PostgreSQL + PostGIS, MongoDB, MySQL, Redis, Elasticsearch, Tile38
 - Geospatial: OSM tooling, vector tiles, routing engines
 - Messaging and observability: Kafka, MQTT, Prometheus, Grafana
 - Learning: Rust (Tokio), Swift (macOS / iOS)
